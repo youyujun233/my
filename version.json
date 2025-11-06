@@ -1,5 +1,5 @@
 {
-  "latestVersion": "4.4",
+  "latestVersion": "4.41",
   "updateLog": [
     "v4.41 修复报错rawResponse问题",
     "其实这个问题是因为掉格式了或者第三方了，考虑了一下要不要专门修，还是修了",
